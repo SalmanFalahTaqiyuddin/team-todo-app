@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  text-align: center;
+  padding: 30px;
+}
+
+header h1 {
+  margin-bottom: 5px;
+}
+
+header p {
+  color: gray;
+}
